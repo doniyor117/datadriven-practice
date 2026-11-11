@@ -1,6 +1,6 @@
-# pure_heath_5379's data engineering practice
+# doniyor's data engineering practice
 
-Scored work from [DataDriven](https://datadriven.io/u/pure_heath_5379), committed here as it is scored. Each folder holds the work exactly as submitted and the report it earned.
+Scored work from [DataDriven](https://datadriven.io/u/doniyor), committed here as it is scored. Each folder holds the work exactly as submitted and the report it earned.
 
 <!-- datadriven:index:start -->
 
@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/pure_heath_5379), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Campaign Bookend Engagement](./practice/sql/campaign-bookend-engagement) | SQL | Hard | 2026-11-11 |
 | [Suspected Bot Sessions](./practice/sql/suspected-bot-sessions) | SQL | Easy | 2026-11-11 |
 
 <!-- datadriven:index:end -->
